@@ -1,5 +1,13 @@
-# webpack-react-starter
-A minimal webpack + react ES6 starter template.
+# No Maintenance Intended
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+<img src='https://media.giphy.com/media/h9hoPqk7Db5fi/giphy.gif' height='200'>
+
+This project is no longer actively maintained. It does its job, but there are no plans to extend or change it.
+We suggest you to check out [`react-transform-boilerplate`](https://github.com/gaearon/react-transform-boilerplate).
+
+---
 
 What's included:
 
